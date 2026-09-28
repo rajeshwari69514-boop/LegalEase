@@ -53,6 +53,9 @@ Generated Legal Document
 ↓
 DOCX / PDF Download
 
+## OUTPUT LINK
+ https://rajeshwari69514-boop.github.io/LegalEase/
+
 ## ⚙️ Installation
 
 Clone the repository:
@@ -61,5 +64,4 @@ Clone the repository:
 git clone YOUR_GITHUB_REPOSITORY_URL
 
  
- ##  OUTPUT LINK
- https://rajeshwari69514-boop.github.io/LegalEase/
+ 
