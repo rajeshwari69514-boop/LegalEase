@@ -59,3 +59,7 @@ Clone the repository:
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
+
+ 
+ ##  OUTPUT LINK
+ https://rajeshwari69514-boop.github.io/LegalEase/
